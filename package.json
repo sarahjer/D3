@@ -1,0 +1,23 @@
+{
+  "name": "d3project",
+  "version": "1.0.0",
+  "description": "a very cool project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahjer/D3.git"
+  },
+  "author": "sarah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahjer/D3/issues"
+  },
+  "homepage": "https://github.com/sarahjer/D3#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
